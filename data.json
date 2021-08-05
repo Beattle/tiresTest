@@ -1,0 +1,17 @@
+{
+  "baseUrl": "https://docs.google.com/spreadsheets/d/124TG3c3qW75t_xaKAy42eiTy2l6My06ji8YRtzjcP9o/edit?usp=sharing",
+  "config": {
+    "width": {
+      "property": "Width",
+	  "type":"string"
+    },
+    "diam": {
+      "property": "Diametr",
+	  "type": "int"
+    },
+    "li": {
+      "property": "LoadIndex",
+	  "type": "string"
+    }
+  }
+}

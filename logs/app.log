@@ -1,0 +1,2 @@
+[2021-07-31T20:34:26.820537+03:00] slim-app.INFO: Users list was viewed. [] {"uid":"16a0339"}
+[2021-07-31T20:34:45.058304+03:00] slim-app.INFO: User of id `1` was viewed. [] {"uid":"3945c50"}
